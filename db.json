@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "categoryName": "Loai 5",
+      "name": "hang123",
+      "price": "1000",
+      "id": 4
+    },
+    {
+      "categoryName": "Loai 10",
+      "name": "hihihihihih",
+      "price": "10",
+      "id": 5
+    },
+    {
+      "categoryName": "ssss",
+      "name": "ssssssssss",
+      "price": "sssss",
+      "id": 6
+    },
+    {
+      "categoryName": "gfdgdff",
+      "name": "gfgdfgfdg",
+      "price": "fdgfd",
+      "id": 7
+    }
+  ]
+}
